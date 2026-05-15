@@ -94,7 +94,7 @@ Use the example script to send product records:
 python data/ingest_file.py
 ```
 
-Before running it, ensure the API is running and review/update constants in `data/ingest_file.py` (API URL, client id, input file).
+Before running it, ensure the API is running and review/update constants in `data/ingest_file.py` (API URL, client ID, input file).
 
 ## License
 
